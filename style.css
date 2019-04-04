@@ -1,0 +1,156 @@
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 16px;
+  font-family: Gill Sans MT;
+  text-align: center;
+}
+h1,h2
+	<div>
+h1{
+  font-family: Gill Sans MT;
+  color: blue;
+  font-weight: bolder;
+  font-size: 75px;
+  text-align: center;
+}
+	</div>
+h2 {
+  font-family: Gill Sans MT;
+  color: blue;
+  font-weight: lighter;
+  font-size: 50px;
+  text-align: center;
+}
+
+h3 {
+
+}
+a {
+  color: blue;
+}
+a hover {
+  padding: 2px;
+  text-decoration: souligned;
+  color: purple;
+}
+
+#infos {
+  color: #ffffff;
+}
+
+#etudiante  {
+  font-family: Gill Sans MT;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#banner {
+  text-align: center;
+  background-image: url(image/blue.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 50px 0;
+  color: white;
+  margin-top: none;
+}
+
+h2 {
+  text-align: center;
+  color: blue;
+}
+
+#banner p {
+	font-size: 24px;
+	opacity: 0.7;
+  padding: 1px;
+}
+
+#footer{
+  padding: 30px;
+  background-color: black;
+  color: lightgrey;
+  <i class="fab fa-facebook-f"></i>
+}
+
+.btn-blue {
+  color: white;
+  background-color: #6772e5;
+  border-radius: 4px;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11);
+  padding: 20px 20px;
+}
+
+.btn-blue:hover {
+  background-color: #7795f8;
+  color: white;
+}
+
+#card-white-1{
+  border-radius: 20px;
+  border: 1px solid;
+  text-align: left;
+  margin: 10px;
+  padding: 60px;
+  box-shadow: 0 50px 50px rgba(60,60,100,.11);
+  background-color: white;
+  border-width: 3px;
+  border-color: grey;
+
+}
+
+#card-white-2{
+  border-radius: 20px;
+  border: 1px solid;
+  text-align: left;
+  margin: 10px;
+  padding: 60px;
+  box-shadow: 0 50px 50px rgba(60,60,100,.11);
+  background-color: white;
+  border-width: 3px;
+  border-color: grey;
+}
+
+#card-white-3{
+  border-radius: 20px;
+  border: 1px solid;
+  text-align: left;
+  margin: 10px;
+  padding: 60px;
+  box-shadow: 0 50px 50px rgba(60,60,100,.11);
+  background-color: white;
+  border-width: 3px;
+  border-color: grey;
+
+}
+#card-white-4{
+  border-radius: 20px;
+  border: 1px solid;
+  text-align: left;
+  margin: 10px;
+  padding: 60px;
+  box-shadow: 0 50px 50px rgba(50,50,93,.11);
+  background-color: white;
+  margin-bottom: 20px;
+  border-width: 3px;
+  border-color: grey;
+}
+
+#card-white-5 {
+  border-radius: 20px;
+  border: 1px solid;
+  text-align: center;
+  margin : 10px;
+  padding: 20px;
+  box-shadow: 0 50px 50px rgba(70,70,100,.11);
+  background-color: white;
+  border-width: 3px;
+  border-color: grey;
+}
+
+#container-2 {
+  display: flex;
+  border-width: 50px;
+  margin-bottom: 20px;
+}
